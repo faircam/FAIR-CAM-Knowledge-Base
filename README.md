@@ -3,7 +3,6 @@ markdown
 # FAIR-CAM-Knowledge-Base
 Knowledge base for FAIR-CAM (optimized for LLM consumption)
 
-# FAIR-CAM Knowledge Base
 A comprehensive knowledge base for **FAIR-CAM** (FAIR Controls Analytics Model), optimized for consumption by Lar
 ## What is FAIR-CAM?
 FAIR-CAM extends the FAIR (Factor Analysis of Information Risk) methodology to provide a structured approach for analyz
