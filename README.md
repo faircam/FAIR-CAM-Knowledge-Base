@@ -48,6 +48,7 @@ Without the behavioral guidance, LLMs tend to slip into qualitative language ("h
 | `06_Opportunity_Analysis.md` | Applying FAIR-CAM to opportunity enablement |
 | `07_Key_Insights_Practical_Guidance.md` | Practical implementation guidance |
 | `08_Quantitative_Analysis_Quality_Standards.md` | Quality standards for quantitative analysis |
+| `09_Resistance_Susceptibility_Measurement.md` | Measuring hardening and susceptibility |
 
 ## License
 
@@ -59,4 +60,5 @@ FAIR-CAM was created by Jack Jones. This knowledge base is distilled from materi
 
 Official FAIR-CAM resources: [fairinstitute.org/FAIR-CAM](https://fairinstitute.org/FAIR-CAM)
 ```
+
 
