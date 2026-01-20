@@ -3,28 +3,39 @@ markdown
 # FAIR-CAM-Knowledge-Base
 Knowledge base for FAIR-CAM (optimized for LLM consumption)
 
-A comprehensive knowledge base for **FAIR-CAM** (FAIR Controls Analytics Model), optimized for consumption by Lar
+A comprehensive knowledge base for **FAIR-CAM** (FAIR Controls Analytics Model), optimized for consumption by Large Language Models (LLMs).
+
 ## What is FAIR-CAM?
-FAIR-CAM extends the FAIR (Factor Analysis of Information Risk) methodology to provide a structured approach for analyz
+
+FAIR-CAM extends the FAIR (Factor Analysis of Information Risk) methodology to provide a structured approach for analyzing and measuring the effectiveness of cybersecurity controls in reducing risk.
+
 ## Quick Start
+
 ### For AI/LLM Users
-1. **Configure behavioral guidance first**: Copy the constraints from `markdown/00_LLM_Behavioral_Guidance.md` int
+
+1. **Configure behavioral guidance first**: Copy the constraints from `markdown/00_LLM_Behavioral_Guidance.md` into your LLM's system prompt or custom instructions
 2. **Load the knowledge base**: Upload the numbered files (01-08) to your LLM's context
 3. **Optional**: Include `markdown/00_README.md` as a navigation guide
-Without the behavioral guidance, LLMs tend to slip into qualitative language ("high/medium/low") instead of maintaining qua
+
+Without the behavioral guidance, LLMs tend to slip into qualitative language ("high/medium/low") instead of maintaining quantitative discipline.
+
 ### Platform-Specific Instructions
+
 **OpenAI Custom GPTs:**
 1. In "Configure", paste the behavioral guidance into "Instructions"
 2. Upload all markdown files to "Knowledge"
+
 **Claude Projects:**
 1. Add the behavioral guidance to "Project Instructions"
 2. Upload markdown files to the project's knowledge base
+
 ## Download
--
--
-**Individual files**: Browse the `markdown/` folder above
-**Complete package**: See [Releases](../../releases) for versioned zip downloads
+
+- **Individual files**: Browse the `markdown/` folder above
+- **Complete package**: See [Releases](../../releases) for versioned zip downloads
+
 ## Contents
+
 | File | Description |
 |------|-------------|
 | `00_LLM_Behavioral_Guidance.md` | Behavioral constraints for AI assistants |
@@ -37,8 +48,15 @@ Without the behavioral guidance, LLMs tend to slip into qualitative language ("h
 | `06_Opportunity_Analysis.md` | Applying FAIR-CAM to opportunity enablement |
 | `07_Key_Insights_Practical_Guidance.md` | Practical implementation guidance |
 | `08_Quantitative_Analysis_Quality_Standards.md` | Quality standards for quantitative analysis |
+
 ## License
-This work is licensed under [CC BY-NC-ND 4.0](LICENSE) (Creative Commons Attribution-NonCommercial-NoDerivative
+
+This work is licensed under [CC BY-NC-ND 4.0](LICENSE) (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International).
+
 ## Attribution
-FAIR-CAM was created by Jack Jones. This knowledge base is distilled from materials published by the [FAIR Institute](http
+
+FAIR-CAM was created by Jack Jones. This knowledge base is distilled from materials published by the [FAIR Institute](https://fairinstitute.org).
+
 Official FAIR-CAM resources: [fairinstitute.org/FAIR-CAM](https://fairinstitute.org/FAIR-CAM)
+```
+
